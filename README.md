@@ -23,7 +23,7 @@
 
 
 使用文档用于商业目的，请联系作者购买。<br />
-软件开发中源码：https://github.com/wanglei0803/EAM<br />
+软件开发中源码：https://github.com/wanglei0803/Bidding-online-system<br />
 Vx：kaixinsanshi<br />
 
   
